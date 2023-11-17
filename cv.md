@@ -31,11 +31,19 @@ Izmir, Turkey;
 * Wrote detailed user stories with acceptance criteria 
 * Coordinated and conducted backlog refinement and sprint review
 * Managed and refined Product backlog 
-* Participated in the sprint planning and the scope formation
 * Facilitated discussion and resolution of project-related issues and blockages, if they arose
 * Coordinated the team during development and testing stages
-* Used SQL to enter new data, verify the correctness of incoming data, to manually go through all the stages of the service to check its operation
-* Documented business processes for users of new / upgraded system
+* Used SQL queries
+* Code example of python solution:
+```
+def get_count(sentence):
+    num_vowels=0
+    for char in sentence:
+        if char in "aeiouAEIOU":
+           num_vowels = num_vowels+1
+    return num_vowels
+```
+
 
 ### EDUCATION
 2023 \
