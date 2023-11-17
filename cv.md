@@ -1,8 +1,11 @@
+<img src=".\images/photo_2023-10-04_15-50-51.jpg" alt="image" width="20%" height="auto">
+
 # MARYANA LUSKANAVA
+
 ### CONTACT INFO
-Izmir, Turkey; 
+Izmir, Turkey;
 **maryana.lus@gmail.com**;
-linkedin.com/in/mariannaluskanova
+[Linkedin](https://www.linkedin.com/in/mariannaluskanova/)
 
 ### SUMMARY
 
